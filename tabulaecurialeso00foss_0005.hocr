@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tabulaecurialeso00foss_0005.png"; bbox 0 0 1841 3260; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 385 1516 1457 1744">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 385 1516 1457 1744">
+     <span class='ocr_line' id='line_1_1' title="bbox 475 1516 1371 1577; baseline 0 -14"><span class='ocrx_word' id='word_1_1' title='bbox 475 1516 711 1577; x_wconf 63' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 736 1516 798 1577; x_wconf 79' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 819 1516 905 1564; x_wconf 71' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 932 1516 1141 1564; x_wconf 69' lang='lat' dir='ltr'>internet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1162 1516 1371 1564; x_wconf 71' lang='lat' dir='ltr'>Archive</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 565 1600 1276 1661; baseline 0 -14"><span class='ocrx_word' id='word_1_6' title='bbox 565 1600 606 1647; x_wconf 78' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 631 1602 769 1648; x_wconf 82' lang='grc'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 791 1600 900 1648; x_wconf 72' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 924 1600 1130 1661; x_wconf 70' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1154 1600 1276 1648; x_wconf 77' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 385 1683 1457 1744; baseline -0.001 -13"><span class='ocrx_word' id='word_1_11' title='bbox 385 1683 590 1731; x_wconf 76' lang='lat' dir='ltr'>Ontario</span> <span class='ocrx_word' id='word_1_12' title='bbox 615 1683 821 1731; x_wconf 79' lang='lat' dir='ltr'>Counci!</span> <span class='ocrx_word' id='word_1_13' title='bbox 846 1683 896 1731; x_wconf 80' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_14' title='bbox 921 1683 1194 1744; x_wconf 77' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_15' title='bbox 1219 1683 1457 1731; x_wconf 71' lang='lat' dir='ltr'>Libraries</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 170 3061 1674 3122">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 170 3061 1674 3122">
+     <span class='ocr_line' id='line_1_4' title="bbox 170 3061 1674 3122; baseline 0.001 -14"><span class='ocrx_word' id='word_1_16' title='bbox 170 3061 1674 3122; x_wconf 65' lang='lat' dir='ltr'>http:llwwwarchive.0r9lcletailsltabulaecurialeSOOOfoss</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
